@@ -1,0 +1,14 @@
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\bin\Debug\netcoreapp2.1\DoNetCoreWithVue.deps.json
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\bin\Debug\netcoreapp2.1\DoNetCoreWithVue.runtimeconfig.json
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\bin\Debug\netcoreapp2.1\DoNetCoreWithVue.runtimeconfig.dev.json
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\bin\Debug\netcoreapp2.1\DoNetCoreWithVue.dll
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\bin\Debug\netcoreapp2.1\DoNetCoreWithVue.pdb
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.csprojAssemblyReference.cache
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.csproj.CoreCompileInputs.cache
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.RazorAssemblyInfo.cache
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.RazorAssemblyInfo.cs
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.AssemblyInfoInputs.cache
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.AssemblyInfo.cs
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.RazorTargetAssemblyInfo.cache
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.dll
+C:\Users\Project\GIT Repository\DoNetCoreWithVue\DoNetCoreWithVue\obj\Debug\netcoreapp2.1\DoNetCoreWithVue.pdb
